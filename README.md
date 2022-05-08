@@ -40,4 +40,4 @@ Add Scarped members to your group.
 > Write 'setup'
 ```
 
-![Anonymous INC](https://raw.githubusercontent.com/IyoRTML/FaceBrute-V2/main/img/facebruteanonymousinc.jpg)
+![Anonymous INC](https://github.com/IyoRTML/TeleScrap/blob/main/img/telescrap.jpg?raw=true)
