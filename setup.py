@@ -1,5 +1,4 @@
 #!/bin/env python3
-# code by : Termux Professor
 
 """
 
