@@ -25,11 +25,11 @@ Install python executable installer first
 ```
 > python setup.py
 ```
-To Scarpe members from group.
+To Scrap members from group.
 ```
 > python scraper.py
 ```
-Add Scarped members to your group.
+Add Scrap members to your group.
 ```
 > python adder.py
 ```
