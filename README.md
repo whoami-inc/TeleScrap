@@ -11,7 +11,7 @@ Install python executable installer first
 
 ## Clone Repo
 ```
-> git clone https://github.com/IyoRTML/TeleScrap.git
+> git clone https://github.com/whoami-inc/TeleScrap.git
 ```
 
 ```
@@ -40,4 +40,4 @@ Add Scrap members to your group.
 > Write 'setup'
 ```
 
-![Anonymous INC](https://github.com/IyoRTML/TeleScrap/blob/main/img/telescrap.jpg?raw=true)
+![Anonymous INC](https://github.com/whoami-inc/TeleScrap/blob/main/img/telescrap.jpg?raw=true)
